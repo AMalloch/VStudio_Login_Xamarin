@@ -25,6 +25,7 @@
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:layout_weight="15"
+        android:background="@drawable/ButtonSignInStyle"
         android:id="@+id/buttonSignIn"
         android:layout_marginLeft="20dp"
         android:layout_marginRight="20dp"
